@@ -143,4 +143,4 @@ The next meaningful evolution is a minimal executable reference slice:
 
 ## Source
 
-- reviewed source diagram: `/home/lucaspiffer/Downloads/Simple Diagram.drawio`
+- reviewed source diagram: `docs/source/Diagram.drawio`
